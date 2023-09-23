@@ -7,6 +7,8 @@ sudo pacman -S alacritty bpytop dolphin firefox grub i3 neofetch\
 
 ln -sv .xinitrc ~/.xinitrc
 ln -sv .taskrc ~/.taskrc
+ln -sv .bashrc ~/.bashrc
+ln -sv .bash_aliases ~/.bash_aliases
 ln -sv ~/ArchInstall/.config/alacritty/ ~/.config/alacritty
 ln -sv ~/ArchInstall/.config/i3/ ~/.config/i3
 ln -sv ~/ArchInstall/.config/nitrogen/ ~/.config/nitrogen
